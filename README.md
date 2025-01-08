@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rokon-khan&label=Profile%20views&color=0e75b6&style=flat" alt="rokon-khan" /> </p>
 
-- 🔭 I’m currently working on **React Artist Full Stack Project**
+- 🔭 I’m currently working on **React Artist Shop Full Stack Project with API Integrations**
 
 - 🌱 I’m currently learning **Node, Express, MongoDB**
 

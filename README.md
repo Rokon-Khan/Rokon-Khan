@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://i.ibb.co/0yYTwPvY/Git-Hub-Background.jpg"  />
+  <img height="500" src="https://i.ibb.co/0yYTwPvY/Git-Hub-Background.jpg"  />
 </div>
 <h1 align="center">Hi 👋, I'm Md Rokonuzzaman</h1>
 <h3 align="center">A passionate frontend developer skilled in React and Next.js.</h3>

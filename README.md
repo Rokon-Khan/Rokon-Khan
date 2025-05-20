@@ -1,8 +1,8 @@
 <div align="center">
-  <img height="300" src="https://i.ibb.co.com/L1n4Yb8/React-JS.jpg"  />
+  <img height="300" src="https://i.ibb.co/0yYTwPvY/Git-Hub-Background.jpg"  />
 </div>
 <h1 align="center">Hi 👋, I'm Md Rokonuzzaman</h1>
-<h3 align="center">A passionate Frontend Developer With React from Bangladesh</h3>
+<h3 align="center">A passionate frontend developer skilled in React and Next.js.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rokon-khan&label=Profile%20views&color=0e75b6&style=flat" alt="rokon-khan" /> </p>
 

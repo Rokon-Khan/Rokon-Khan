@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rokon-khan&label=Profile%20views&color=0e75b6&style=flat" alt="rokon-khan" /> </p>
 
-- 🔭 I’m currently working on **React Artist Shop Full Stack Project with API Integrations**
+- 🔭 I’m currently working on **Tour Managent Backend with Node.js+Express+TypeScript and Mongoose**
 
-- 🌱 I’m currently learning **Node, Express, MongoDB**
+- 🌱 I’m currently learning **Node, Express, MongoDB and Mongoose with TypeScript**
 
 - 👨‍💻 All of my projects are available at [http://md.rokonuzzaman.surge.sh/](http://md.rokonuzzaman.surge.sh/)
 

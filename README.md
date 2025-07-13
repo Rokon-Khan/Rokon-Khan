@@ -2,13 +2,13 @@
   <img height="300" src="https://i.ibb.co/0yYTwPvY/Git-Hub-Background.jpg"  />
 </div>
 <h1 align="center">Hi 👋, I'm Md Rokonuzzaman</h1>
-<h3 align="center">A passionate frontend developer skilled in React and Next.js.</h3>
+<h3 align="center">A passionate Full-Stack developer skilled in React, Next.js, Node.js, Express.js and Moongooes.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rokon-khan&label=Profile%20views&color=0e75b6&style=flat" alt="rokon-khan" /> </p>
 
 - 🔭 I’m currently working on **Tour Managent Backend with Node.js+Express+TypeScript and Mongoose**
 
-- 🌱 I’m currently learning **Node, Express, MongoDB and Mongoose with TypeScript**
+- 🌱 I’m currently learning **TypeScript and PostgreSQL**
 
 - 👨‍💻 All of my projects are available at [http://md.rokonuzzaman.surge.sh/](http://md.rokonuzzaman.surge.sh/)
 

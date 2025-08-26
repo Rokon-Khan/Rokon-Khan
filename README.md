@@ -8,7 +8,7 @@
 
 ## About Me
 
-- 🔭 **Currently working on**: Tour Management Backend with Node.js, Express, TypeScript, and Mongoose
+- 🔭 **Currently working on**: Ride Sharing(Like Uber/Pathow) Full-Stack Project with Node.js, Express, TypeScript, and Mongoose, React+Redux RTK, Tailwind and Shadcn UI
 - 🌱 **Currently learning**: TypeScript and PostgreSQL
 - 👨‍💻 **Portfolio**: [md.rokonuzzaman.surge.sh](http://md.rokonuzzaman.surge.sh/)
 - 💬 **Ask me about**: React, Node.js, Express, MongoDB

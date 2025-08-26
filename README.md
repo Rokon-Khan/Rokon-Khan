@@ -10,7 +10,7 @@
 
 - 🔭 **Currently working on**: Ride Sharing(Like Uber/Pathow) Full-Stack Project with Node.js, Express, TypeScript, and Mongoose, React+Redux RTK, Tailwind and Shadcn UI
 - 🌱 **Currently learning**: TypeScript and PostgreSQL
-- 👨‍💻 **Portfolio**: [md.rokonuzzaman.surge.sh](http://md.rokonuzzaman.surge.sh/)
+- 👨‍💻 **Portfolio**: [md.rokonuzzaman.surge.sh](http://mdrokonuzzaman.surge.sh/)
 - 💬 **Ask me about**: React, Node.js, Express, MongoDB
 - 📊 **Profile views**: <img src="https://komarev.com/ghpvc/?username=rokon-khan&label=Profile%20views&color=0e75b6&style=flat" alt="rokon-khan" />
 

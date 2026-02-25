@@ -1,7 +1,7 @@
 # Md Rokonuzzaman
 
 <div align="center">
-  <img height="300" src="https://i.ibb.co.com/HLQ79hwc/Md-Rokonuzzaman-Backend-Developer.png" alt="GitHub Background" />
+  <img height="600" src="https://i.ibb.co.com/HLQ79hwc/Md-Rokonuzzaman-Backend-Developer.png" alt="GitHub Background" />
 </div>
 
 <h3 align="center">Passionate Full-Stack Developer | Backend Engineer | Reac.js Next.js | Node.js, Express.js | Prisma ORM , PostgreSQL | Mongose, MongoDB </h3>

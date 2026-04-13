@@ -10,7 +10,7 @@
 
 - 🔭 **Currently working on**: Large Scale CRM SAAS Project as a Team Lead, Backend Engineer with Node.js, Express, TypeScript, Prisma ORM with PostgreSQL Database
 - 🌱 **Currently learning**: Python and AI/ML
-- 👨‍💻 **Portfolio**: [md.rokonuzzaman.surge.sh](https://mdrokonuzzaman.vercel.app)
+- 👨‍💻 **Portfolio**: [mdrokonuzzaman.verce.app](https://mdrokonuzzaman.vercel.app)
 - 💬 **Ask me about**: React, Node.js, Express, MongoDB
 - 📊 **Profile views**: <img src="https://komarev.com/ghpvc/?username=rokon-khan&label=Profile%20views&color=0e75b6&style=flat" alt="rokon-khan" />
 

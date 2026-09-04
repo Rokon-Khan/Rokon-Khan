@@ -1,99 +1,71 @@
-# Md Rokonuzzaman
+<a href="https://www.facebook.com/md.rokon.khan.04/">
+<img src="https://raw.githubusercontent.com/rokon-khan/rokon-khan/main/images/Md-Rokonuzzamna-github-Cover.png" width="100%" />
+</a>
 
-<div align="center">
-  <img height="600" src="https://i.ibb.co.com/nqtZg4zM/MD-Rokonuzzaman-Banner.png" alt="GitHub Background" />
-</div>
-
-<h3 align="center">Passionate Full-Stack Developer | Backend Engineer | Reac.js Next.js | Node.js, Express.js | Prisma ORM , PostgreSQL | Mongose, MongoDB </h3>
-
-## About Me
-
-- 🔭 **Currently working on**: Large Scale CRM SAAS Project as a Team Lead, Backend Engineer with Node.js, Express, TypeScript, Prisma ORM with PostgreSQL Database
-- 🌱 **Currently learning**: Python and AI/ML
-- 👨‍💻 **Portfolio**: [mdrokonuzzaman.verce.app](https://mdrokonuzzaman.vercel.app)
-- 💬 **Ask me about**: React, Node.js, Express, MongoDB
-- 📊 **Profile views**: <img src="https://komarev.com/ghpvc/?username=rokon-khan&label=Profile%20views&color=0e75b6&style=flat" alt="rokon-khan" />
-
-## Connect with Me
+<br />
 
 <p align="center">
-  <a href="https://twitter.com/mdrokonkhan04" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/md-rokonuzzaman-a8a9a41aa/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/md.rokon.khan.04" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=rokon-khan&label=Profile%20views&color=FF1CF7&style=flat" alt="rokon-khan" />
 </p>
 
-## Skills
+## :chart_with_upwards_trend: Current Stats
 
-### Languages and Frameworks
+<br />
 <p align="center">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=rokon-khan&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
-### Databases
+## :mailbox: Reach me out
+
+<br />
+
+[<p align="center"><img height="75" src="https://github.com/rokon-khan/rokon-khan/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/md-rokonuzzaman-a8a9a41aa/)[<img height="75" src="https://github.com/rokon-khan/rokon-khan/blob/main/images/icons/Facebook.png">](https://www.facebook.com/md.rokon.khan.04)[<img height="75" src="https://github.com/rokon-khan/rokon-khan/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/mdrokonkhan04)
+
+<br />
+
+## :eyes: Current Overview
+
+<br />
+
+### 🔭 I'm working — Backend-focused Full-Stack Developer with 2.5+ years of professional experience.
+### 🌱 I'm learning — AI/ML from Phitron AI/ML Course.
+### 🚀 I'm building — Scalable SaaS applications, recently deployed on a KVM-based VPS.
+### 💡 I use — Claude Code, Codex & Google Antigravity to accelerate development & problem-solving.
+### ⚡ Fun fact — I love clean architecture and turning complex problems into simple, elegant APIs.
+
+<br />
+
+## :computer: Technologies that I know
+
+<br />
 <p align="center">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
+<img src="https://github.com/rokon-khan/rokon-khan/blob/main/images/icons/HTML.png"/>
+<img src="https://github.com/rokon-khan/rokon-khan/blob/main/images/icons/css.png"/>
+<img src="https://github.com/rokon-khan/rokon-khan/blob/main/images/icons/JavaScript.png"/>
+<img src="https://github.com/rokon-khan/rokon-khan/blob/main/images/icons/ts.svg" height="50" width="50"/>
+<img src="https://github.com/rokon-khan/rokon-khan/blob/main/images/icons/python.png"/>
 </p>
-
-### Tools and Platforms
 <p align="center">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
+<img src="https://github.com/rokon-khan/rokon-khan/blob/main/images/icons/react.png"/>
+<img src="https://github.com/rokon-khan/rokon-khan/blob/main/images/icons/nextjs.svg" height="50" width="50"/>
+<img src="https://github.com/rokon-khan/rokon-khan/blob/main/images/icons/tailwind.png"/>
+<img src="https://github.com/rokon-khan/rokon-khan/blob/main/images/icons/redux.png"/>
+<img src="https://github.com/rokon-khan/rokon-khan/blob/main/images/icons/Bootsrap.png"/>
 </p>
-
-## GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rokon-khan&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+<img src="https://github.com/rokon-khan/rokon-khan/blob/main/images/icons/node.png"/>
+<img src="https://github.com/rokon-khan/rokon-khan/blob/main/images/icons/express.png"/>
+<img src="https://github.com/rokon-khan/rokon-khan/blob/main/images/icons/prisma.svg" height="50" width="50"/>
+<img src="https://github.com/rokon-khan/rokon-khan/blob/main/images/icons/mongo.png"/>
+<img src="https://github.com/rokon-khan/rokon-khan/blob/main/images/icons/mongoose.svg" height="50" width="50"/>
+<img src="https://github.com/rokon-khan/rokon-khan/blob/main/images/icons/postgres.svg" height="50" width="50"/>
+</p><br/>
 
+## :bar_chart: GitHub Stats
+
+<br />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rokon-khan&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rokon-khan&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rokon-khan&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
 

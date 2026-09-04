@@ -19,7 +19,11 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/rokon-khan/rokon-khan/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/md-rokonuzzaman-just/)[<img height="75" src="https://github.com/rokon-khan/rokon-khan/blob/main/images/icons/Facebook.png">](https://www.facebook.com/md.rokon.khan.04)[<img height="75" src="https://github.com/rokon-khan/rokon-khan/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/mdrokonkhan04)
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-rokonuzzaman-just/"><img height="75" src="https://github.com/rokon-khan/rokon-khan/blob/main/images/icons/Linkedin.png"></a>
+  <a href="https://www.facebook.com/md.rokon.khan.04"><img height="75" src="https://github.com/rokon-khan/rokon-khan/blob/main/images/icons/Facebook.png"></a>
+  <a href="https://twitter.com/mdrokonkhan04"><img height="75" src="https://github.com/rokon-khan/rokon-khan/blob/main/images/icons/Twitter.png"></a>
+</p>
 
 <br />
 
